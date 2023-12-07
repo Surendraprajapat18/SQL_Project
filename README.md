@@ -1,5 +1,5 @@
 # SQL PROJECTS [![](https://img.shields.io/badge/-%230077B5.svg?logo=MySQL&logoColor=white)]()  
-I have uploaded all SQL projects here. These projects show my skills in SQL like query writing(subqueries, joins, aggregate functions, etc.), Database Table creation, 
+I have uploaded all SQL projects here. These projects show my skills in SQL like query writing(subqueries, joins, aggregate functions, etc.), Database Table creation, etc.
 
 #
 
